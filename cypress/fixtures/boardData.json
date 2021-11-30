@@ -1,0 +1,23 @@
+[
+    {
+        "name": "asdasd",
+        "user": 0,
+        "id": 74768678372,
+        "starred": true,
+        "created": "2021-11-29"
+    },
+    {
+        "name": "test post",
+        "user": 0,
+        "id": 7628929674,
+        "starred": false,
+        "created": "2021-11-29"
+    },
+    {
+        "name": "New Board",
+        "user": 0,
+        "id": 56514502097,
+        "starred": false,
+        "created": "2021-11-29"
+    }
+]

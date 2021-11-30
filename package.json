@@ -1,0 +1,18 @@
+{
+    "name": "cypress-webinar",
+    "version": "1.0.0",
+    "description": "Introduction to cypress",
+    "main": "index.js",
+    "scripts": {
+        "test": "npx cypress run --record --key 4cf54052-3277-4f37-ab26-fad3af824288"
+    },
+    "author": "kunal ashar",
+    "license": "ISC",
+    "devDependencies": {
+        "cypress": "^8.7.0"
+    },
+    "dependencies": {
+        "sync-sql": "^1.0.2",
+        "xlsx": "^0.17.4"
+    }
+}
